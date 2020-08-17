@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <style>
     .linkedin{
       > svg {
-        fill: "#0077B5";
+        fill: #0077B5;
       }
     }
 </style>
