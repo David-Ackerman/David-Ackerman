@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ackerman" alt="david-ackerman" /> </p>
 
-- 🌱 I’m currently learning **Reatc, React Native and other tolls for Frontend Development**
+- 🌱 I’m currently learning **React, React Native and other tools for Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/David-Ackerman](https://github.com/David-Ackerman)
 
