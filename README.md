@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Mobile/Web developer, passionate about programming, studying new technologies, creating new projects related to React, React Native, NodeJs and sometimes game development</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ackerman" theme=monokai" alt="david-ackerman trophys" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ackerman& theme=monokai" alt="david-ackerman trophys" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ackerman" alt="david-ackerman profile views" /> </p>
 
