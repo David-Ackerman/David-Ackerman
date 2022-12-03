@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Mobile/Web developer, passionate about programming, studying new technologies, creating new projects related to React, React Native, NodeJs and sometimes game development</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ackerman&theme=monokai" alt="david-ackerman trophys" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ackerman&theme=radical" alt="david-ackerman trophys" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ackerman" alt="david-ackerman profile views" /> </p>
 
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ### :zap: Github Stats
  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-ackerman&" alt="david-ackerman streak stats" />
+[![GitHub David Ackerman Streak](https://streak-stats.demolab.com?user=david-ackerman&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-ackerman&show_icons=true" alt="david-ackerman stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-ackerman&show_icons=true&theme=radical" alt="david-ackerman stats" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-ackerman&layout=compact&hide=html" alt="david-ackerman top languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-ackerman&theme=radical&layout=compact&hide=html" alt="david-ackerman top languages" />
 
