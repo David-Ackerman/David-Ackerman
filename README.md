@@ -1,49 +1,26 @@
+# David dos Santos
 
-<!--
-**David-Ackerman/David-Ackerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack engineer in São Paulo, Brazil. React and TypeScript in front, Node and Go behind.
 
-Here are some ideas to get you started:
+I've built front ends for benefits, education and telecom companies since 2020, and I'm currently a senior software engineer at Netcracker. On my own time I ship complete products, from the database to the last pixel. Open to international remote roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/david-dos-santos-dev/) | [itch.io](https://david-ackerman.itch.io/) | [david.santos.dev@icloud.com](mailto:david.santos.dev@icloud.com)
 
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Mobile/Web developer, passionate about programming, studying new technologies, creating new projects related to React, React Native, NodeJs and sometimes game development</h3>
+## Selected work
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ackerman&theme=radical" alt="david-ackerman trophys" /></a> </p>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Myfi**](https://myfi-pwa.netlify.app) | Personal finance app on [Google Play](https://play.google.com/store/apps/details?id=com.davidackerman.myfi) and the web. Track what repeats every month and see how much you save. | Expo, React Native Web, Hono, SQLite, Playwright, AWS |
+| [**dev-das-promos**](https://github.com/David-Ackerman/dev-das-promos) | Deals bot that writes posts with AI, waits for approval on Telegram, then publishes to Telegram, WhatsApp and X with tracked links. Runs daily on free plans. | TypeScript, Cloudflare Workers, GitHub Actions, Neon Postgres |
+| [**gobid**](https://github.com/David-Ackerman/gobid) | Real-time auction API. Bids reach every watcher over WebSockets. | Go, chi, pgx, sqlc, PostgreSQL |
+| [**Monpire**](https://david-ackerman.itch.io/monpire) | 3D property-trading board game for 2 to 6 players: same device, bots or online. On [Google Play](https://play.google.com/store/apps/details?id=com.davidsantos.monpire) and itch.io. | Godot 4, GDScript, ENet |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ackerman" alt="david-ackerman profile views" /> </p>
+## Currently
 
-- 🌱 I’m currently learning **React, React Native and other tools for Frontend Development**
+- Studying AI system architecture and RAG, and writing more Go.
+- Building tools for coding agents: every repo of mine ships with an `AGENTS.md`, and I built an MCP server that gives assistants project context.
+- Working toward a small game studio of my own, one game at a time.
 
-- 👨‍💻 All of my projects are available at [https://github.com/David-Ackerman](https://github.com/David-Ackerman)
+## Stack
 
-- ⚡ Fun fact **I love to draw, play rpg games and develop small projects**
-
-- 📫 My linkedin: <a href="https://linkedin.com/in/david-dos-santos-dev/" target="blank" rel="noopener noreferrer"><img align="center" src="https://github.com/David-Ackerman/David-Ackerman/blob/master/linkedin.svg" alt="linkedin david dos santos" height="20" width="20" />
-
----
-
-### Languages and Tools:
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</p>
-  
----
-
-### :zap: Github Stats
- 
-[![GitHub David Ackerman Streak](https://streak-stats.demolab.com?user=david-ackerman&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-ackerman&show_icons=true&theme=radical" alt="david-ackerman stats" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-ackerman&theme=radical&layout=compact&hide=html" alt="david-ackerman top languages" />
-
+TypeScript, React, Next.js, React Native, Angular, Node.js, Go, GraphQL, PostgreSQL, Docker, Cloudflare Workers, Godot.
