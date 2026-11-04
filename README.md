@@ -2,8 +2,9 @@
 
 Senior full-stack engineer in São Paulo, Brazil. React and TypeScript in front, Node and Go behind.
 
-I've built front ends for benefits, education and telecom companies since 2020, and I'm currently a senior software engineer at Netcracker. On my own time I ship complete products, from the database to the last pixel. Open to international remote roles.
+I've built front ends for benefits, education and telecom companies since 2020, and I'm currently a senior software engineer at Netcracker. On my own time I ship complete products, from the database to the last pixel. Open to international remote roles. More about me, my work and my plans on [my portfolio](https://david-santos-dev-omega.vercel.app/en).
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D6A4B?style=for-the-badge&logo=vercel&logoColor=white)](https://david-santos-dev-omega.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D6A4B?style=for-the-badge)](https://www.linkedin.com/in/david-dos-santos-dev/)
 [![itch.io](https://img.shields.io/badge/itch.io-1D6A4B?style=for-the-badge&logo=itchdotio&logoColor=white)](https://david-ackerman.itch.io/)
 [![Email](https://img.shields.io/badge/Email-1D6A4B?style=for-the-badge&logo=icloud&logoColor=white)](mailto:david.santos.dev@icloud.com)
