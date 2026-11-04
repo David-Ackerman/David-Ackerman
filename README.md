@@ -4,7 +4,9 @@ Senior full-stack engineer in São Paulo, Brazil. React and TypeScript in front,
 
 I've built front ends for benefits, education and telecom companies since 2020, and I'm currently a senior software engineer at Netcracker. On my own time I ship complete products, from the database to the last pixel. Open to international remote roles.
 
-[LinkedIn](https://www.linkedin.com/in/david-dos-santos-dev/) | [itch.io](https://david-ackerman.itch.io/) | [david.santos.dev@icloud.com](mailto:david.santos.dev@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D6A4B?style=for-the-badge)](https://www.linkedin.com/in/david-dos-santos-dev/)
+[![itch.io](https://img.shields.io/badge/itch.io-1D6A4B?style=for-the-badge&logo=itchdotio&logoColor=white)](https://david-ackerman.itch.io/)
+[![Email](https://img.shields.io/badge/Email-1D6A4B?style=for-the-badge&logo=icloud&logoColor=white)](mailto:david.santos.dev@icloud.com)
 
 ## Selected work
 
@@ -24,3 +26,9 @@ I've built front ends for benefits, education and telecom companies since 2020, 
 ## Stack
 
 TypeScript, React, Next.js, React Native, Angular, Node.js, Go, GraphQL, PostgreSQL, Docker, Cloudflare Workers, Godot.
+
+## Off the clock
+
+RPGs are what made me want to make games. I play chess online, practice piano on a MIDI keyboard so I can write music for my own games, and draw characters and game concepts.
+
+[![chess.com rapid rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fdavid-ackerman%2Fstats&query=%24.chess_rapid.last.rating&label=chess.com%20rapid&logo=chessdotcom&logoColor=white&color=1D6A4B&style=for-the-badge&cacheSeconds=21600)](https://www.chess.com/member/david-ackerman)
